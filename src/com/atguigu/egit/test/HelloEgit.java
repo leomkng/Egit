@@ -6,6 +6,7 @@ public class HelloEgit {
 		System.out.println("Hello Egit!");
 		System.out.println("update-1");
 		System.out.println("clone");
+		System.out.println("2222");
 	}
 
 }
